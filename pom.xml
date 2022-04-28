@@ -13,7 +13,7 @@
 	<artifactId>booking-restaurant-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>booking-restaurant-service</name>
-	<description>Restaurant Service</description>
+	<description>Servicio de gestiónde restaurantes</description>
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>2020.0.3</spring-cloud.version>
